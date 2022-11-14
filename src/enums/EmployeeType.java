@@ -1,0 +1,12 @@
+package enums;
+
+public enum EmployeeType {
+    BLUE_COLLAR,
+    TECHNICAL_MANAGER,
+    ADMINISTRATIVE_MANAGER,
+    BACKEND_DEVELOPER,
+    FRONTEND_DEVELOPER,
+    SOFTWARE_ARCHITECT,
+    HR_SPECIALIST
+}
+
